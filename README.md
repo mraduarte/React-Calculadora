@@ -1,2 +1,2 @@
 # React-Calculadora
-Calculadora desenvolvid em React.
+Calculadora desenvolvida em React.
